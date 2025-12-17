@@ -15,3 +15,7 @@ This project is a classic Mastermind game written in C.
 ## How to compile
 ```bash
 gcc -Wall -Wextra -std=c11 main.c game.c code.c attempt.c peg.c -o mastermind
+
+## How to run
+./mastermind
+
